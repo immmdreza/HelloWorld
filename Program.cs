@@ -12,7 +12,7 @@ namespace HelloWorld
 
             botClient = new TelegramBotClient("");
             
-            //this should write Hello World! on console
+            //this should write Hello World! on this console
             Console.WriteLine("Hello World!");
         }
     }
